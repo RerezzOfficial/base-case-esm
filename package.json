@@ -1,0 +1,16 @@
+{
+  "name": "Rerezz Official",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with Baileys",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@itsliaaa/baileys": "latest",
+    "node-cache": "^5.1.2",
+    "pino": "^9.5.0"
+  }
+}
